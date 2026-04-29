@@ -327,7 +327,7 @@ PermitRootLogin no
 
 ## Full Documentation
 
-The complete project writeup including full context, extended build notes, corporate deployment checklist, and ISO 27001 control mapping is available in the [Project Cerberus Notion workspace](https://www.notion.so/350fe4fa7fd381768d59f06aa166be5e).
+The complete project writeup including full context, extended build notes, corporate deployment checklist, and ISO 27001 control mapping is available in the [Project Cerberus Notion workspace](https://dent-trampoline-c53.notion.site/Project-Cerberus-Public-Portfolio-351fe4fa7fd3816384c5d06cabbc1a9d?source=copy_link).
 
 ---
 
